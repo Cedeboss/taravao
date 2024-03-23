@@ -1,0 +1,92 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* Light mode */
+.bg-ui{
+  background-color: #FDFDFB;
+}
+.bg-primary{
+  background-color: #B9BA59;
+}
+.bg-secondary{
+  background-color: #C2D8A0;
+}
+.bg-accent{
+  background-color: #A3C97D;
+}
+.bg-valeur{
+  background-color: #121208;
+}
+
+.text-primary{
+  color: #121208;
+}
+.text-secondary{
+  color: #FDFDFB;
+}
+
+
+/* Dark mode */
+.bg-dk-ui{
+  background-color: #030302;
+}
+.bg-dk-primary{
+  background-color: #A4A545;
+}
+.bg-dk-secondary{
+  background-color: #485E26;
+}
+.bg-dk-accent{
+  background-color: #5C8136;
+}
+.bg-dk-valeur{
+  background-color: #F7F7ED;
+}
+
+.text-dk-primary{
+  color: #F7F7ED;
+}
+.text-dk-secondary{
+  color: #030302;
+}
+
+.bg-crea{
+  /* height: 300px; */
+  background: url('../src/styles/images/image832.png');
+}
